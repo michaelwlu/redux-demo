@@ -1,6 +1,7 @@
 {
-  "dependencies": {
-    "react-redux": "^8.0.2",
-    "redux-logger": "^3.0.6"
-  }
+	"name": "redux-toolkit",
+	"version": "0.0.1",
+	"repository": "https://github.com/michaelwlu/redux-toolkit.git",
+	"author": "Michael W Lu <michaelwenlu@gmail.com>",
+	"license": "MIT"
 }
